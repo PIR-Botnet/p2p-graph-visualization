@@ -5,12 +5,6 @@ var container = document.getElementById('mynetwork');
 
 var options = {
        // physics: false,
-//        interaction: {
-//            dragNodes: false,
-//            dragView: false,
-//            selectable: false,
-//            zoomView: false
-//        }
     edges: {
         arrows: {
             middle: true
