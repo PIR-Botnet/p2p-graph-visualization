@@ -17,11 +17,14 @@ var options = {
         },
         smooth: false
     },
-    interaction: {
-        hideEdgesOnDrag: true
-    },
     nodes: {
-        mass: 5
+        mass: 10,
+        color: {
+            highlight: {
+                border: "#E9121E",
+                background: "#FF7A88"
+            }
+        }
     }
 };
 
